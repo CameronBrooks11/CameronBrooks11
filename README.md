@@ -1,4 +1,4 @@
 - 📫 How to reach me: cbrook49@uwo.ca
 - 👤 Profiles
   - [Appropedia User:CameronBrooks11](https://www.appropedia.org/User:CameronBrooks11)
-  - [GitLab](https://gitlab.com/cameronkbrooks)
+  - [GitLab User:cameronkbrooks](https://gitlab.com/cameronkbrooks)

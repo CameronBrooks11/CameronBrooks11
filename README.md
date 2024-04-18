@@ -1,9 +1,14 @@
 📫 How to reach me: cbrook49@uwo.ca
+
 - Many of my projects underdevelopment will be private for publication reasons. Please reach out if you are interested or wish to collaborate/contribute!
+
 👤 Profiles
+
 - [Appropedia User:CameronBrooks11](https://www.appropedia.org/User:CameronBrooks11)
 - [GitLab User:cameronkbrooks](https://gitlab.com/cameronkbrooks)
+
 ⚛️ Research & Engineering Projects
+
 - Sounding Rocket Flight Control [Github Project - R&D](https://github.com/orgs/werocketry/projects/1)
   - [werocketry/airbrakes-SR](https://github.com/werocketry/airbrakes-SR)
   - [werocketry/HPR-Rocket-Flight-Computer](https://github.com/werocketry/HPR-Rocket-Flight-Computer)
@@ -26,7 +31,9 @@
   - [uwo-fast/pipe-fitting-SCAD](https://github.com/uwo-fast/pipe-fitting-SCAD)
 - Parametric Modelling of Plant Geometry
   - [CameronBrooks11/GeoGrow](https://github.com/CameronBrooks11/GeoGrow)
+
 💡 Future Projects
+
 - MakerPackager
   - Essentially a unified library drawing from existing OpenSCAD enclosure maker scripts
   - [CameronBrooks11/MakerPackager](https://github.com/CameronBrooks11/MakerPackager)
@@ -37,7 +44,11 @@
 - Fabricatus-Astra
   - A conceptual project intended to combine much of my previous, current and future work in computational engineering and additive manufacturing to create a fully computationally-engineered 3D printable sounding rocket.
   - [CameronBrooks11/Fabricatus-Astra](https://github.com/CameronBrooks11/Fabricatus-Astra)
+
 ⚙️ Personal Projects
+
 - Google Tasks-Sheets Sync
   - [CameronBrooks11/Google-Sheets-Tasks-Sync](https://github.com/CameronBrooks11/Google-Sheets-Tasks-Sync)
+
 🏫 School Projects
+

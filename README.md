@@ -9,7 +9,7 @@
 
 ⚛️ Research & Engineering Projects
 
-- Sounding Rocket Flight Control [Tracker](https://github.com/orgs/werocketry/projects/1)
+- Sounding Rocket Flight Control [📊](https://github.com/orgs/werocketry/projects/1)
   - [werocketry/airbrakes-SR](https://github.com/werocketry/airbrakes-SR)
   - [werocketry/HPR-Rocket-Flight-Computer](https://github.com/werocketry/HPR-Rocket-Flight-Computer)
   - [chasgior214/RocketFlightSim](https://github.com/chasgior214/RocketFlightSim)

@@ -17,7 +17,6 @@
   - [CameronBrooks11/Encoder-Basic](https://github.com/CameronBrooks11/Encoder-Basic) (Complete, used as a component)
   - [chasgior/airbrakes-capstone](https://github.com/chasgior214/airbrakes-capstone) (Archive of capstone course repo, subsequently forked)
 - Desktop 3D Printer for In-Situ Conductor Integration [📊](https://github.com/orgs/IntegrumSystems/projects/1)
-  - First device in development by Integrum Systems.
   - [IntegrumSystems/isci3d](https://github.com/IntegrumSystems/isci3d)
 - wireflow
   - [IntegrumSystems/wireflow](https://github.com/IntegrumSystems/wireflow)

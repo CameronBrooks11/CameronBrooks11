@@ -30,7 +30,7 @@
   - [uwo-fast/SnapTessSCAD](https://github.com/uwo-fast/SnapTessSCAD)
   - [CameronBrooks11/locktesspy](https://github.com/CameronBrooks11/locktesspy)(Legacy archive of original work done in Python)
 - Modular Scalable Bioreactor [📊](https://github.com/orgs/uwo-fast/projects/1)
-  - [uwo-fastMOSS-Reactor](https://github.com/uwo-fast/MOSS-Reactor)
+  - [uwo-fast/MOSS-Reactor](https://github.com/uwo-fast/MOSS-Reactor)
 - Parametric Pipe Fittings
   - [uwo-fast/pipe-fitting-SCAD](https://github.com/uwo-fast/pipe-fitting-SCAD)
 - Flow-based Electrolysis Membrane-less Open-source Reactor Architecture

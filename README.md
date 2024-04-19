@@ -43,7 +43,7 @@
 - Parametric Modelling of Plant Geometry
   - [CameronBrooks11/GeoGrow](https://github.com/CameronBrooks11/GeoGrow)
 -  Functional AM Computational Engineering Models
-  - [uwo-fast/FAM-sCEMs](https://github.com/uwo-fast/FAM-sCEMs)
+  -  [uwo-fast/FAM-sCEMs](https://github.com/uwo-fast/FAM-sCEMs)
 - end
 
 💡 Future Projects

@@ -19,6 +19,8 @@
 - Desktop 3D Printer for In-Situ Conductor Integration [📊](https://github.com/orgs/IntegrumSystems/projects/1)
   - First device in development by Integrum Systems.
   - [IntegrumSystems/isci3d](https://github.com/IntegrumSystems/isci3d)
+- wireflow
+  - [IntegrumSystems/wireflow](https://github.com/IntegrumSystems/wireflow)
 - Additive Manufacture Breakout Board [📊](https://github.com/orgs/uwo-fast/projects/7)
   - [uwo-fast/ambb](https://github.com/uwo-fast/ambb)
 - Desktop Sheet Press [📊](https://github.com/orgs/uwo-fast/projects/2)

@@ -12,3 +12,5 @@
 ## 📂 Projects
 
 - Explore my [Projects](./PROJECTS.md) to see a comprehensive list of my work in research, engineering, personal endeavors, rocketry, and future initiatives.
+---
+<img src="https://github-readme-stats.vercel.app/api?username=cameronbrooks11&show_icons=true&theme=holi" alt="cameronbrooks11" />

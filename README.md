@@ -1,5 +1,7 @@
 # Cameron Brooks
 
+Current student at Western University in London, Ontario, Canada pursuing a Masters of Engineering Science in the Department of Electrical and Computer Engineering specializing in Robotics & Controls with a focus on the design and engineering of open systems.
+
 📫 **How to reach me:** <cbrook49@uwo.ca>
 
 - Many of my projects under development will be private for publication reasons. Please reach out if you are interested or wish to collaborate/contribute!

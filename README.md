@@ -18,10 +18,10 @@ Current student at Western University in London, Ontario, Canada pursuing a Mast
 ---
 
 <img
-  src="https://github-readme-stats.vercel.app/api?username=cameronbrooks11&show_icons=true&theme=synthwave"
+  src="https://github-readme-stats.vercel.app/api?username=cameronbrooks11&show_icons=true&theme=tokyonight"
   alt="cameronbrooks11 stats" />
 
 <img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=cameronbrooks11&theme=synthwave&langs_count=6&card_width=760"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=cameronbrooks11&theme=tokyonight&langs_count=6&card_width=760"
   height="300"
   alt="cameronbrooks11 languages" />

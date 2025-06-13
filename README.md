@@ -25,6 +25,7 @@ Current student at Western University in London, Ontario, Canada pursuing a Mast
 
 <img
     src="https://github-readme-stats.vercel.app/api?username=cameronbrooks11&show_icons=true&theme=prussian"
+    height="300"
     alt="cameronbrooks11 stats"  
   />
 

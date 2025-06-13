@@ -44,7 +44,7 @@ Current student at Western University in London, Ontario, Canada pursuing a Mast
   />
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=platima&theme=prussian&langs_count=6&card_width=380"
-    width="380"
+    width="200"
     alt="cameronbrooks11 languages"
 
 />

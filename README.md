@@ -42,6 +42,8 @@ I’m a Master of Engineering Science student at Western University (London, Ont
     </td>
     <td valign="top">
 
+</table>
+
 **Social & Network:**  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Cameron%20Brooks-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cameron-brooks-cb/)  
 [![X @cameronbrooks_](https://img.shields.io/badge/%20-%40cameronbrooks_-000000?style=flat&logo=x&logoColor=white)](https://x.com/cameronbrooks_)  

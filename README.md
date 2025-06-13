@@ -15,7 +15,11 @@ Current student at Western University in London, Ontario, Canada pursuing a Mast
 
 - Explore my [Projects](./PROJECTS.md) to see a comprehensive list of my work in research, engineering, personal endeavors, rocketry, and future initiatives.
 
+<br>
+
 ---
+
+<br>
 
 <p align="center">
   <img

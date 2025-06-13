@@ -1,25 +1,43 @@
 # Cameron Brooks
 
-Current student at Western University in London, Ontario, Canada pursuing a Masters of Engineering Science in the Department of Electrical and Computer Engineering specializing in Robotics & Controls with a focus on the design and engineering of open systems.
+I’m a Master of Engineering Science student at Western University (London, Ontario) in the Department of Electrical and Computer Engineering, specializing in Robotics & Controls. My work focuses on the design and engineering of open, modular systems.
 
-📫 **How to reach me:** <cbrook49@uwo.ca>
+📫 **Get in touch:** [cbrook49@uwo.ca](mailto:cbrook49@uwo.ca)
 
-- Many of my projects under development will be private for publication reasons. Please reach out if you are interested or wish to collaborate/contribute!
+- Many of my projects are private while in development or pending publication. Please reach out if you’d like to collaborate!
 
-## 👤 Profiles
+📂 **Projects & Sites**
 
-- [Appropedia User:CameronBrooks11](https://www.appropedia.org/User:CameronBrooks11)
-- [GitLab User:cameronkbrooks](https://gitlab.com/cameronkbrooks)
+- **Distributed GitHub Site**  
+  [github.cameronbrooks.io](https://github.cameronbrooks.io) – a living, distributed index of all my repositories and their auto-generated docs, assembled ad hoc from each repo.
 
-## 📂 Projects
+- **Personal Site**  
+  [cameronbrooks.net](https://cameronbrooks.net) – a more formal, classic web presence for things like my knowledge graph, photo gallery, blog posts, and a sandbox with live previews of selected repos.
 
-- Explore my [Projects](./PROJECTS.md) to see a comprehensive list of my work in research, engineering, personal endeavors, rocketry, and future initiatives.
+👤 **Profiles**
 
-<br>
+**Academic:**  
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar–Profile-4285F4?logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=tN1pSrkAAAAJ&hl=en)  
+[![ResearchGate](https://img.shields.io/badge/ResearchGate–Cameron--Brooks-00CCBB?logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Cameron-Brooks)  
+[![Academia.edu](https://img.shields.io/badge/Academia.edu–CameronBrooks-303030?logo=academia&logoColor=white)](https://uwontario.academia.edu/CameronBrooks)  
+[![Zotero](https://img.shields.io/badge/Zotero–cameronbrooks11-CE7832?logo=zotero&logoColor=white)](https://www.zotero.org/cameronbrooks11)  
+[![OSF](https://img.shields.io/badge/OSF–wcre4-04842C?logo=osf&logoColor=white)](https://osf.io/wcre4/)  
+[![SciProfiles](https://img.shields.io/badge/SciProfiles–cameron--k--brooks-4B0082)](https://sciprofiles.com/profile/cameron-k-brooks)  
+[![Web of Science](https://img.shields.io/badge/Web%20of%20Science–HNI--5666--2023-1075C1)](https://www.webofscience.com/wos/author/record/HNI-5666-2023)
 
----
+**Development & Repos:**  
+[![GitHub](https://img.shields.io/badge/GitHub–CameronBrooks11-181717?logo=github&logoColor=white)](https://github.com/CameronBrooks11)  
+[![GitLab](https://img.shields.io/badge/GitLab–cameronkbrooks-FC6D26?logo=gitlab&logoColor=white)](https://gitlab.com/cameronkbrooks)  
+[![Appropedia](https://img.shields.io/badge/Appropedia–CameronBrooks11-2BBC8A?logo=wikimediacommons&logoColor=white)](https://www.appropedia.org/User:CameronBrooks11)  
+[![Wikipedia](https://img.shields.io/badge/Wikipedia–CameronBrooks11-000000?logo=wikipedia&logoColor=white)](https://en.wikipedia.org/wiki/User:CameronBrooks11)  
+[![Thingiverse](https://img.shields.io/badge/Thingiverse–cameronbrooks-2AA893?logo=thingiverse&logoColor=white)](https://www.thingiverse.com/cameronbrooks)
 
-<br>
+**Social & Network:**  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Cameron%20Brooks-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cameron-brooks-cb/)  
+[![X @cameronbrooks_](https://img.shields.io/badge/%20-%40cameronbrooks__-000000?style=flat&logo=x&logoColor=white)](https://x.com/cameronbrooks_)  
+[![Instagram](https://img.shields.io/badge/Instagram–camcreating-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/camcreating/)
+
+📊 **GitHub Stats**
 
 <img
   src="https://github-readme-stats.vercel.app/api?username=cameronbrooks11&show_icons=true&theme=tokyonight&card_width=500"

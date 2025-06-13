@@ -27,13 +27,17 @@ Current student at Western University in London, Ontario, Canada pursuing a Mast
   <img
     src="https://github-readme-stats.vercel.app/api?username=cameronbrooks11&show_icons=true&theme=prussian"
     width="380"
+    height="350"
     alt="cameronbrooks11 stats"  
   />
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=platima&theme=prussian&langs_count=6&card_width=380"
     width="380"
-    alt="cameronbrooks11 languages"  
-  />
+    height="350"
+    alt="cameronbrooks11 languages"
+
+/>
+
 </div>
 
 ---
@@ -41,29 +45,12 @@ Current student at Western University in London, Ontario, Canada pursuing a Mast
 <div style="display:flex; justify-content:center; gap:1rem; flex-wrap:wrap;">
   <img
     src="https://github-readme-stats.vercel.app/api?username=cameronbrooks11&show_icons=true&theme=prussian"
-    width="380"
+    width="500"
     alt="cameronbrooks11 stats"  
   />
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=platima&theme=prussian&langs_count=6&card_width=760"
-    width="760"
+    width="500"
     alt="cameronbrooks11 languages"  
   />
 </div>
-
----
-
-| 📊 GitHub Stats | 🗣️ Top Languages |
-| :-------------: | :--------------: |
-
-|
-<img
-  src="https://github-readme-stats.vercel.app/api?username=cameronbrooks11&show_icons=true&theme=prussian"
-  width="350"
-/>
-|
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=platima&theme=prussian&langs_count=6&card_width=700"
-  width="700"
-/>
-|

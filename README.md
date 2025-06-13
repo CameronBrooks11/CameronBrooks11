@@ -14,5 +14,8 @@ Current student at Western University in London, Ontario, Canada pursuing a Mast
 ## 📂 Projects
 
 - Explore my [Projects](./PROJECTS.md) to see a comprehensive list of my work in research, engineering, personal endeavors, rocketry, and future initiatives.
+
 ---
-<img src="https://github-readme-stats.vercel.app/api?username=cameronbrooks11&show_icons=true&theme=holi" alt="cameronbrooks11" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=platima&theme=radical&langs_count=3" alt="cameronbrooks11 languages" />
+<img src="https://github-readme-stats.vercel.app/api?username=cameronbrooks11&show_icons=true&theme=holi" alt="cameronbrooks11 stats" />

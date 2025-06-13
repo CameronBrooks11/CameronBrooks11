@@ -17,5 +17,5 @@ Current student at Western University in London, Ontario, Canada pursuing a Mast
 
 ---
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=platima&theme=radical&langs_count=3" alt="cameronbrooks11 languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=platima&theme=radical&langs_count=5" alt="cameronbrooks11 languages" />
 <img src="https://github-readme-stats.vercel.app/api?username=cameronbrooks11&show_icons=true&theme=holi" alt="cameronbrooks11 stats" />

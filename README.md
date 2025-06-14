@@ -9,7 +9,7 @@ I’m a Master of Engineering Science student at Western University (London, Ont
 📂 **Projects & Sites**
 
 - **Distributed GitHub Site**  
-  [github.cameronbrooks.io](https://github.cameronbrooks.io) – a living, distributed index of all my repositories and their auto-generated docs, assembled ad hoc from each repo.
+  [cameronbrooks.github.io](https://cameronbrooks.github.io) – a living, distributed index of all my repositories and their auto-generated docs, assembled ad hoc from each repo.
 
 - **Personal Site**  
   [cameronbrooks.net](https://cameronbrooks.net) – a more formal, classic web presence for things like my knowledge graph, photo gallery, blog posts, and a sandbox with live previews of selected repos.

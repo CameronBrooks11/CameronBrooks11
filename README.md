@@ -8,6 +8,8 @@ I’m a Master of Engineering Science student at Western University (London, Ont
 
 📂 **Projects & Sites**
 
+_Currently active works in progress!_
+
 - **Distributed GitHub Site**  
   [cameronbrooks11.github.io](https://cameronbrooks11.github.io) – a living, distributed index of all my repositories and their auto-generated docs, assembled ad hoc from each repo.
 

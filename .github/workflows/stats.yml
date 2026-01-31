@@ -1,0 +1,51 @@
+name: Update README stats
+
+on:
+  schedule:
+    - cron: "0 3 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Create profile directory
+        run: mkdir -p profile
+
+      - name: Download stats card
+        run: |
+          curl -fL \
+            "https://github-readme-stats.vercel.app/api?username=cameronbrooks11&show_icons=true&theme=tokyonight&card_width=500&cache_seconds=86400" \
+            -o profile/stats.svg
+
+      - name: Download top langs card
+        run: |
+          curl -fL \
+            "https://github-readme-stats.vercel.app/api/top-langs/?username=cameronbrooks11&theme=tokyonight&langs_count=10&card_width=500&cache_seconds=86400" \
+            -o profile/top-langs.svg
+
+      - name: Validate SVG output
+        run: |
+          grep -q "<svg" profile/stats.svg
+          grep -q "<svg" profile/top-langs.svg
+
+      - name: Commit and push if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+          git add profile/*.svg
+
+          if git diff --cached --quiet; then
+            echo "No changes to commit"
+            exit 0
+          fi
+
+          git commit -m "Update README stats"
+          git push

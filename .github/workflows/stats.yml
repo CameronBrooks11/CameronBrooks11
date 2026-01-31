@@ -18,30 +18,21 @@ jobs:
       - name: Create profile directory
         run: mkdir -p profile
 
-      - name: Download stats card
-        run: |
-          for i in 1 2 3 4 5; do
-            curl -fL \
-              "https://github-readme-stats.vercel.app/api?username=cameronbrooks11&show_icons=true&theme=tokyonight&card_width=500" \
-              -o profile/stats.svg && break
-            echo "Attempt $i failed, retrying in 30s..."
-            sleep 30
-          done
+      - name: Generate stats card
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: stats
+          options: username=cameronbrooks11&show_icons=true&theme=tokyonight&card_width=500
+          path: profile/stats.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Download top langs card
-        run: |
-          for i in 1 2 3 4 5; do
-            curl -fL \
-              "https://github-readme-stats.vercel.app/api/top-langs/?username=cameronbrooks11&theme=tokyonight&langs_count=10&card_width=500" \
-              -o profile/top-langs.svg && break
-            echo "Attempt $i failed, retrying in 30s..."
-            sleep 30
-          done
-
-      - name: Validate SVG output
-        run: |
-          grep -q "<svg" profile/stats.svg
-          grep -q "<svg" profile/top-langs.svg
+      - name: Generate top langs card
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: top-langs
+          options: username=cameronbrooks11&theme=tokyonight&langs_count=10&card_width=500
+          path: profile/top-langs.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Commit and push if changed
         run: |

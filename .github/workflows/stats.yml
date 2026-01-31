@@ -30,7 +30,7 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: top-langs
-          options: username=cameronbrooks11&theme=tokyonight&langs_count=10&card_width=500&layout=donut
+          options: username=cameronbrooks11&theme=tokyonight&langs_count=10&card_width=500&layout=compact
           path: profile/top-langs.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 

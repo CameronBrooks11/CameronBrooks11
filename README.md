@@ -24,6 +24,15 @@ _Currently active works in progress!_
 
 📊 **GitHub Stats**
 
-![GitHub stats](./profile/stats.svg)
+<a href="https://github.com/CameronBrooks11">
+  <img height=200 align="center" src="./profile/stats.svg" />
+</a>
+<a href="https://github.com/CameronBrooks11">
+  <img height=200 align="center" src="./profile/top-langs.svg" />
+</a>
 
-![Top languages](./profile/top-langs.svg)
+<br><br>
+
+<a href="https://github.com/CameronBrooks11">
+  <img src="./profile/streak.svg" alt="GitHub Streak" />
+</a>

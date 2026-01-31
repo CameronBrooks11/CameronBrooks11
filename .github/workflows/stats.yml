@@ -2,7 +2,7 @@ name: Update README stats
 
 on:
   schedule:
-    - cron: "0 3 * * *"
+    - cron: "0 */12 * * *" # Runs every 12 hours
   workflow_dispatch:
 
 permissions:
@@ -22,7 +22,7 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: stats
-          options: username=cameronbrooks11&show_icons=true&theme=tokyonight&card_width=500
+          options: username=cameronbrooks11&show_icons=true&theme=tokyonight&card_width=500&include_all_commits=true&show=reviews,prs_merged,prs_merged_percentage&hide_border=true
           path: profile/stats.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
@@ -30,9 +30,13 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: top-langs
-          options: username=cameronbrooks11&theme=tokyonight&langs_count=10&card_width=500
+          options: username=cameronbrooks11&theme=tokyonight&langs_count=8&card_width=320&layout=compact&hide_border=true
           path: profile/top-langs.svg
           token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate streak card
+        run: |
+          curl -fL "https://streak-stats.demolab.com?user=cameronbrooks11&theme=tokyonight&hide_border=true" -o profile/streak.svg || true
 
       - name: Commit and push if changed
         run: |

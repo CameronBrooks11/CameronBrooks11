@@ -19,7 +19,7 @@ jobs:
         run: mkdir -p profile
 
       - name: Generate stats card
-        uses: readme-tools/github-readme-stats-action@v1
+        uses: stats-organization/github-readme-stats-action@v2
         with:
           card: stats
           options: username=cameronbrooks11&show_icons=true&theme=tokyonight&card_width=500
@@ -27,7 +27,7 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Generate top langs card
-        uses: readme-tools/github-readme-stats-action@v1
+        uses: stats-organization/github-readme-stats-action@v2
         with:
           card: top-langs
           options: username=cameronbrooks11&theme=tokyonight&langs_count=10&card_width=500

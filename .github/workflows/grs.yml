@@ -34,10 +34,15 @@ jobs:
           path: profile/top-langs.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
+      - name: Rebuild stats card from split queries if GraphQL failed
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: .github/scripts/stats-fallback.sh cameronbrooks11
+
       - name: Reject upstream error cards
         run: |
           if grep -q "Something went wrong" profile/*.svg; then
-            echo "github-readme-stats returned an error card; keeping previous SVGs"
+            echo "Card generation and fallback both failed; keeping previous SVGs"
             exit 1
           fi
 

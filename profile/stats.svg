@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Cameron Brooks&#39; GitHub Stats, Rank: A</title>
-        <desc id="descId">Total Stars Earned: 43, Total Commits  (last year) : 7271, Total PRs: 1697, Total Issues: 991, Contributed to (last year): 144</desc>
+        <desc id="descId">Total Stars Earned: 43, Total Commits  (last year) : 7280, Total PRs: 1702, Total Issues: 991, Contributed to (last year): 144</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 61.33049465290294;
+        stroke-dashoffset: 61.330494650833536;
       }
     }
   
